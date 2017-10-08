@@ -14,7 +14,7 @@ It is required to submit:
   - Uses descriptive activity names to name the activities in the data set
   - Appropriately labels the data set with descriptive variable names.
 2) TidyDataSet.txt with the average of each variable for each activity and each subject.
-3) CodeBook.md that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+3) CodeBook.md that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 4) README.md which explains how all of the scripts work and how they are connected.
 5) Link to a Github repository with the script, codebook, tidy dataset and this README.md
 
